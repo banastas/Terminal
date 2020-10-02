@@ -1,2 +1,4 @@
 # Terminal
-Terminal settings, theme, and background.
+<img src="https://banastas.github.io/Terminal/Terminal.png">
+## Terminal settings, theme, and background.
+
